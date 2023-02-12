@@ -1,7 +1,6 @@
-
 container:
   image: nginx:latest
 
-replicaCount: 3
+replicaCount: 8
 
 host: nginx.v6.rocks

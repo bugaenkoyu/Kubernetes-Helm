@@ -4,4 +4,4 @@ container:
 
 replicaCount: 3
 
-host: helm-homework.dynv6.net
+host: pacman.dynv6.net
