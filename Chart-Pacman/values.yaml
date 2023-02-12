@@ -1,0 +1,7 @@
+
+container:
+  image: golucky5/pacman:latest
+
+replicaCount: 3
+
+host: helm-homework.dynv6.net

@@ -1,0 +1,7 @@
+
+container:
+  image: nginx:latest
+
+replicaCount: 3
+
+host: helm-homework.dynv6.net
